@@ -1,0 +1,12 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/mimi146/mimi146.github.io",
+    "owner": {
+        "username": "mimi146",
+        "email": "niroulamilan37@gmail.com",
+        "twitter": "<twitter-username>"
+    },
+    "record": {
+        "CNAME": "mimi146.github.io"
+    }
+} 
